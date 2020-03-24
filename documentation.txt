@@ -1,0 +1,3 @@
+I am learning git!
+this is cool
+Yes I can do great things!
